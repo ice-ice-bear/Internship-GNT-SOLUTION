@@ -1,0 +1,1 @@
+python train.py --img 640 --batch 5 --epochs 300 --data yolo_carnival.yaml --workers 0  --weights yolov5m.pt --cache --name yolo_carnival_trial2
